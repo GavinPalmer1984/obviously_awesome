@@ -80,12 +80,66 @@ Market confusion starts with our disconnect between understanding the product as
 ## Step 4. List Your True Competitive Alternatives
 Understand what a customer might replace you with in order to understand how they categorize your solution.
 
+Focus on your best customers and what they would identify as alternative solutions.
+
 ## Step 5. Isolate Your Unique Attributes or Features
+What makes you different and better than the alternatives?
+
+Concentrate on "consideration" rather than "retention" attributes.
+
+Customers who don't see enough value to consider buying the product will never stick around long enough to experience retention attributes such as your excellent customer service.
+
 ## Step 6. Map the Attributes to Value "Themes"
+Features enable benefits, which can be translated into value in unique customer terms.
+
 ## Step 7. Determine Who Cares a Lot
+Best-fit customers are easiest to sell to and retain.
+
+Target as narrowly as you can to meet your near-term sales objectives.  You can broaden the targets later.
+
+A segment needs to meet at least two criteria to be worthy of focus: (1) it needs to be big enough that it's possible to meet the goals of your business, and (2) it needs to have important, specific, unmet needs that are common to the segment.
+
 ## Step 8. Find a Market Frame of Reference That Puts Your Strengths at the Center and Determine How to Position in It
+Pay particular attention to adjacent markets that are growing quickly.
+
+The goal of the Big Fish, Small Pond style of positioning is to carve off a piece of the market where the rules are a little bit different - just enough to give your product an edge over the category leader.
+
+Just because your initial target market is narrow doesn't mean you will stay narrowly focused forever.
+
+You have the ability to meet the special needs of the subsegment much better than the category leader.
+
 ## Step 9. Layer On a Trend (but Be Careful)
+Trends can only be used when they have a clear link to your product.  Start by making the connection between your product and the market obvious.
+
 ## Step 10. Capture Your Positioning so It Can Be Shared
+
 # 3. Putting Positioning Into Play
 ## After Positioning: What Happens Next?
+Write a messaging document.
+
+Changing the way the company thinks about itself will usually have an impact on how product features get prioritized in the future.
+
+Pricing reflects positioning and might need to be adjusted.
+
+While most people think of positioning as a marketing concept, a shift in positioning feels more like a shift in business strategy.  Every department inside the company is likely to be impacted over time.
+
+Both products and markets change over time.  Companies need to regularly check in on their positioning and adjust it as technology and landscapes evolve.
+
+A sudden change in the competitive landscape could signal a need to adjust your positioning.
+
+Other outside forces can also change your market.
+
+New technology can suddenly change what is possible in a market.  Once customers understand it, purchase criteria can shift very quickly.
+
+The attitudes and preferences of customers can shift over time.
+
 # Conclustion
+Any product can be positioned in multiple markets.  Your product is doomed to languish in a market where nobody understands how awesome it is.
+
+Great positioning rarely comes by default.  If you want to succeed, you have to determine the best way to position your product.  Deliberate, try, fail, test and try again.
+
+Understanding what your best customers see as true alternatives to your solution will lead you to your differentiators.
+
+Position yourself in a market that makes your strengths obvious to the folks you want to sell to.
+
+Use trends to make your product more interesting to customers right now, but be very cautious.  Don't layer on a trend just for the sake of being trendy - it's better to be successful and boring, rather than fashionable and bewildering.
