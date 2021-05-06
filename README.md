@@ -63,9 +63,23 @@ Investors will understand that the story in your investor pitch deck may look dr
 
 In the early days of a company with a single product, positioning the product and the company as the same thing is the easiest path to establishing a brand in the minds of customers, because there are simply fewer things to remember.
 
+If you are a single-product company that currently has a company brand and a product brand, I strongly recommend focusing on your product and putting your energy into marketing and selling that.
+
 ## Step 2. Form a Positioning Team
+Assembling a team often exposes how different groups in your company hold certain assumptions about your attributes, value and target markets.
+
+I highly recommend bringing in an experienced facilitator to guide the positioning discussion.  Having someone from outside the company facilitate the discussion will make the exercise much more productive and balanced.  In the positioning workshops I run, I consistently hear that discussions about bigger strategic issues are difficult without someone from the outside making sure everyone's voice is heard.  I also hear how helpful it is for the facilitator to gently challenge long-held assumptions that seem cast in stone and untouchable.
+
 ## Step 3. Align Your Positioning Vocabulary and Let Go of Your Positioning Baggage
+For your team to develop a new position, they need a common understanding of the goal and expected outcomes.
+
+In the workshops I run, I set aside the first hour to go over positioning concepts and definitions with the team.
+
+Market confusion starts with our disconnect between understanding the product as product creators, and understanding the product as customers first perceive it.
+
 ## Step 4. List Your True Competitive Alternatives
+Understand what a customer might replace you with in order to understand how they categorize your solution.
+
 ## Step 5. Isolate Your Unique Attributes or Features
 ## Step 6. Map the Attributes to Value "Themes"
 ## Step 7. Determine Who Cares a Lot
