@@ -4,7 +4,7 @@ how to nail product positioning so customers get it, buy it, love it - by April 
 ![image](https://user-images.githubusercontent.com/5564129/117304011-e94acc80-ae42-11eb-95c1-7c4e364d524e.png)
 
 # Introduction
-Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot aobut.
+Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about.
 - Want to do better account-based marketing? Get a better understanding of how to identify your best target accounts.
 - Want to create better marketing content? Understand your value and differentiators better.
 - Want to grow revenue faster? Understand what makes a best-fit customer.
@@ -49,7 +49,7 @@ Trends can help customers understand why a product is important right now.
 
 AI itself is not a market category and tells customers little about what a product is.  AI-empowered CRM, however, tells us what the product is (CRM is the market category) and gives us a clue about what makes it special right now (the use of AI).
 
-Position your product in a market category that puts your offering's strengthsin their best context, and then look for relevant trends in your industry that can help customers understand why they should consider this product right now.
+Position your product in a market category that puts your offering's strengths in their best context, and then look for relevant trends in your industry that can help customers understand why they should consider this product right now.
 
 I've determined that it's critical to start with understanding what the customer sees as a competitive alternative, and then working through the rest of the components - attributes, value, characteristics, market category, relevant trends - from there.
 
@@ -133,7 +133,7 @@ New technology can suddenly change what is possible in a market.  Once customers
 
 The attitudes and preferences of customers can shift over time.
 
-# Conclustion
+# Conclusion
 Any product can be positioned in multiple markets.  Your product is doomed to languish in a market where nobody understands how awesome it is.
 
 Great positioning rarely comes by default.  If you want to succeed, you have to determine the best way to position your product.  Deliberate, try, fail, test and try again.
